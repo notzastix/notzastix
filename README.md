@@ -1,4 +1,4 @@
-## I’m IcySnex 👋
+## I’m Zastix 👋
 
 - 👀 Current Projects:
   - [BlooketTools](https://github.com/ZasticBradyn/BlooketStuff) - A set of tools used in Blooket
