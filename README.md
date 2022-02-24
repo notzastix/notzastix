@@ -1,7 +1,7 @@
 ## I’m Zastix 👋
 
 - 👀 Current Projects:
-  - [BlooketUI](https://github.com/ZasticBradyn/Blooket-CheatHUB) - a script whitch allows you to run all the scripts from [SchoolCheats](https://schoolcheats.net/blooket/) Easily! (basicly a recreation of [gliz's](https://github.com/glixzzy) GUI)
+  - [BlooketUI](https://github.com/ZasticBradyn/Blooket-CheatHUB) - private due to gliz's request.
   - Commiting on other Repos - i dont work on much stuff so i usally just help other repos.
   
   
