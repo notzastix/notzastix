@@ -1,7 +1,7 @@
 ## I’m Zastix 👋
 
 - 👀 Current Projects:
-  - [BlooketTools](https://github.com/ZasticBradyn/BlooketStuff) - A set of tools used in Blooket
+  - [BlooketTools](https://github.com/ZasticBradyn/BlooketStuff) - deleted due to request of gliz
   - Commiting on other Repos - i dont work on much stuff so i usally just help other repos.
   
   
