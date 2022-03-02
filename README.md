@@ -6,7 +6,7 @@
   
   
 - 🌱 Languages I use:
-  - C++,
+  - C++, (a little bit)
   - Javascript,
   - HTML/CSS
   
