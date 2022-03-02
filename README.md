@@ -1,8 +1,8 @@
 ## I’m Zastix 👋
 
 - 👀 Current Projects:
-  - [BlooketUI](https://github.com/ZasticBradyn/Blooket-CheatHUB) - a script which allows you to run blooket hacks easily.
-  - [Bloooket-Hacks](https://github.com/ZasticBradyn/Blooket-Hacks) - a varity of hacks for blooket (not just gliz's cheats copyied)
+  - gliz said i cant do blooket anymore, sorry bout that.
+  - if u have the ui copied it will prob still work but idek
   
   
 - 🌱 Languages I use:
