@@ -1,8 +1,7 @@
 ## I’m Zastix 👋
 
 - 👀 Current Projects:
-  - gliz said i cant do blooket anymore, sorry bout that.
-  - if u have the ui copied it will prob still work but idek
+  - private version of blooketui
   
   
 - 🌱 Languages I use:
