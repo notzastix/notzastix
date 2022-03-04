@@ -2,6 +2,7 @@
 
 - 👀 Current Projects:
   - private version of blooketui
+  - random side projects
   
   
 - 🌱 Languages I use:
