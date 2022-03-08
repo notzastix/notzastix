@@ -2,7 +2,7 @@
 
 - 👀 Current Projects:
   - private version of blooketui
-  - [BlooketCheatTools](https://ZasticBradyn/BlooketCheatTools) - stuff to help you make cheats in blooket
+  - [BlooketCheatTools](https://github.com/ZasticBradyn/BlooketCheatTools) - stuff to help you make cheats in blooket
   
   
 - 🌱 Languages I use:
