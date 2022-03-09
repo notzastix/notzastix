@@ -16,7 +16,7 @@
 
 - 👥 Friends:
   - [Dentamon](https://github.com/Dentamon/)
-  - [Kxing](https://github.com/eazyhackz)
+  - [Kxing](https://github.com/Kxinghello/)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZasticBradyn&count_private=true&show_icons=true&theme=dark)
 
