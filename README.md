@@ -3,6 +3,7 @@
 - 👀 Current Projects:
   - private version of blooketui
   - [BlooketCheatTools](https://github.com/ZasticBradyn/BlooketCheatTools) - stuff to help you make cheats in blooket
+  - [Blacket Hacks](https://github.com/ZasticBradyn/blacket-hacks) - a shitpost of hacks for [blacket](http://blacket.us.to/)
   
   
 - 🌱 Languages I use:
