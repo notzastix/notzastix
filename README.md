@@ -1,7 +1,7 @@
 ## I’m Zastix 👋
 
 - 👀 Current Projects:
-  - private version of [blooketUI](https://ZasticBradyn/BlooketUI)
+  - private version of [blooketUI](https://github.com/ZasticBradyn/BlooketUI)
   - [BlooketCheatTools](https://github.com/ZasticBradyn/BlooketCheatTools) - stuff to help you make cheats in blooket
   - [Blacket Hacks](https://github.com/ZasticBradyn/blacket-hacks) - a shitpost of hacks for [blacket](https://blacket.org)
   
