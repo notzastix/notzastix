@@ -1,7 +1,7 @@
 ## I’m Zastix 👋
 
 - 👀 Current Projects:
-  - [horionFork](https://github.com/ZasticBradyn/horionFork) - a horrible fork of horion that im just doing cause im bored LOL (might have mineplex stuff)
+  - [BlacketMultiTool](https://github.com/ZasticBradyn/BlacketTool) - a Multitool for blacket.org
   - [BlooketCheatTools](https://github.com/ZasticBradyn/BlooketCheatTools) - stuff to help you make cheats in blooket
   - [Blacket Hacks](https://github.com/ZasticBradyn/blacket-hacks) - a shitpost of hacks for [blacket](https://beta.blacket.org)
   
