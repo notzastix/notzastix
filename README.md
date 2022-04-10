@@ -13,7 +13,7 @@
   
 - 📫 How to reach me:
   - Discord: zastix#0001
-  - Gmail: [zastix](https://mail.google.com/mail/?view=cm&fs=1&to=zastixxoncrack@gmail.com&su=Contact%20Me)
+  - Gmail: [zastix](https://mail.google.com/mail/?view=cm&fs=1&to=zastix@zastix.xyz&su=Contact%20Me)
 
 - 👥 Friends:
   - [Dentamon](https://github.com/Dentamon/)
