@@ -2,7 +2,7 @@
 
 - 👀 Current Projects:
   - [BlacketMultiTool](https://github.com/ZasticBradyn/BlacketTool) - a Multitool for blacket.org
-  - [zastix.xyz](https://zastix.xyz/) - A custom coded Node.js based site
+  - [zastix.xyz](https://zastix.xyz/) - A custom coded Node.js site using Express for backend
   - [BlooketCheatTools](https://github.com/ZasticBradyn/BlooketCheatTools) - stuff to help you make cheats in blooket
   - [Blacket Hacks](https://github.com/ZasticBradyn/blacket-hacks) - a shitpost of hacks for [blacket](https://beta.blacket.org)
   
