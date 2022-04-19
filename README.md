@@ -4,7 +4,7 @@
   - [BlacketMultiTool](https://github.com/notzastix/BlacketTool) - a Multitool for blacket.org
   - [zastix.xyz](https://zastix.xyz/) - A custom coded Node.js site using Express for backend
   - [BlooketCheatTools](https://github.com/notzastix/BlooketCheatTools) - stuff to help you make cheats in blooket
-  - [Blacket Hacks](https://github.com/notzastix/blacket-hacks) - a shitpost of hacks for [blacket](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  - [Blacket Hacks](https://github.com/notzastix/blacket-hacks) - hacks for [blacket](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
   
   
 - 🌱 Languages I use:
