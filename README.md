@@ -23,7 +23,7 @@
   - [PenguinPowers](https://github.com/penguinblook/)
   - [Xotic](https://github.com/XOTlC)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=notzastix&count_private=true&show_icons=true&theme=dark)
+[![zastix's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=notzastix&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=notzastix&theme=dark)
 
