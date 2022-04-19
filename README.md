@@ -5,7 +5,6 @@
   - [zastix.xyz](https://zastix.xyz/) - A custom coded Node.js site using Express for backend
   - [BlooketCheatTools](https://github.com/ZasticBradyn/BlooketCheatTools) - stuff to help you make cheats in blooket
   - [Blacket Hacks](https://github.com/ZasticBradyn/blacket-hacks) - a shitpost of hacks for [blacket](https://beta.blacket.org)
-  - [e](javascript:alert(1))
   
   
 - 🌱 Languages I use:
@@ -22,6 +21,7 @@
   - [Kxing](https://github.com/Kxinghello/)
   - [Snow](https://github.com/Snowflake-Coder-H2o/)
   - [PenguinPowers](https://github.com/penguinblook/)
+  - [Xotic](https://github.com/XOTlC)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ZasticBradyn&count_private=true&show_icons=true&theme=dark)
 
