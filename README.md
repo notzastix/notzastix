@@ -18,7 +18,6 @@
 
 - 👥 Friends:
   - [Dentamon](https://github.com/Dentamon/)
-  - [Kxing](https://github.com/Kxinghello/)
   - [Snow](https://github.com/Snowflake-Coder-H2o/)
   - [PenguinPowers](https://github.com/penguinblook/)
   - [Xotic](https://github.com/XOTlC)
