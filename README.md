@@ -21,6 +21,7 @@
   - [Snow](https://github.com/Snowflake-Coder-H2o/)
   - [PenguinPowers](https://github.com/penguinblook/)
   - [Xotic](https://github.com/XOTlC)
+  - [tremblero](https://github.com/tremblero)
 
 [![zastix's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=notzastix&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
