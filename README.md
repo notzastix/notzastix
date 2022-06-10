@@ -1,16 +1,17 @@
 ## I’m Zastix 👋
 
 - 👀 Current Projects:
-  - [BlooketUI](https://github.com/notzastix/blooketUI) - the best public GUI for blooket
+  - [Betastar Hacks](https://github.com/notzastix/blacket-hacks) - hacks for [betastar.org](https://betastar.org)
+  - Betstar Multitool - a multitool packed with features for [betastar.org](https://betastar.org)
+  - [BlooketUI](https://github.com/notzastix/blooketUI) - the best **public** GUI for Blooket
   - [zastix.xyz](https://zastix.xyz/) - A custom coded Node.js site using Express for backend
-  - [BlooketCheatTools](https://github.com/notzastix/BlooketCheatTools) - stuff to help you make cheats in blooket
-  - [Blacket Hacks](https://github.com/notzastix/blacket-hacks) - hacks for [blacket](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+  - [BlooketCheatTools](https://github.com/notzastix/BlooketCheatTools) - Resources to help anyone make Blooket cheats!
   
   
 - 🌱 Languages I use:
-  - C++, (a little bit)
   - Javascript,
-  - HTML/CSS
+  - HTML/CCS,
+  - C++, (a little bit)
   
 - 📫 How to reach me:
   - Discord: zastix#0001
@@ -27,3 +28,4 @@
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=notzastix&theme=dark)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=notzastix&theme=onedark)](https://github.com/notzastix/notzastix)
