@@ -18,12 +18,12 @@
   - Gmail: [zastix](https://mail.google.com/mail/?view=cm&fs=1&to=zastix@zastix.xyz&su=Contact%20Me)
 
 - 👥 Friends:
-  - [Dentamon](https://github.com/Dentamon/)
   - [Snow](https://github.com/Snowflake-Coder-H2o/)
   - [PenguinPowers](https://github.com/penguinblook/)
   - [Xotic](https://github.com/XOTlC)
   - [tremblero](https://github.com/tremblero)
   - [acai](https://github.com/l2vy7)
+  - [qaiik](https://github.com/qaiik)
 
 [![zastix's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=notzastix&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
