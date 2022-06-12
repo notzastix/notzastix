@@ -1,9 +1,6 @@
 ## I’m Zastix 👋
 
 - 👀 Current Projects:
-  - [Betastar Hacks](https://github.com/notzastix/blacket-hacks) - hacks for [betastar.org](https://betastar.org)
-  - Betstar Multitool - a multitool packed with features for [betastar.org](https://betastar.org)
-  - [BlooketUI](https://github.com/notzastix/blooketUI) - the best **public** GUI for Blooket
   - [zastix.xyz](https://zastix.xyz/) - A custom coded Node.js site using Express for backend
   - [BlooketCheatTools](https://github.com/notzastix/BlooketCheatTools) - Resources to help anyone make Blooket cheats!
   
@@ -18,9 +15,7 @@
   - Gmail: [zastix](https://mail.google.com/mail/?view=cm&fs=1&to=zastix@zastix.xyz&su=Contact%20Me)
 
 - 👥 Friends:
-  - [Snow](https://github.com/Snowflake-Coder-H2o/)
   - [PenguinPowers](https://github.com/penguinblook/)
-  - [Xotic](https://github.com/XOTlC)
   - [tremblero](https://github.com/tremblero)
   - [acai](https://github.com/l2vy7)
   - [qaiik](https://github.com/qaiik)
